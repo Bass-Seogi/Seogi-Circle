@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cl7.renault.t.toyac
+{
+	name: "Sample 7"
+	price: 107
+	unlock: 0
+	icon: "cl7"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+
+	look: cl7
+}
+}

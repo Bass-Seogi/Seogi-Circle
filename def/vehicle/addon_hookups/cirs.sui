@@ -1,0 +1,95 @@
+accessory_hookup_int_data : cl1.cirs.addon_hookup
+{
+	name: "pheel"
+	icon: "cl1"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl1
+	suitable_for[]: "set_dashbrd"
+	price: 101
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl2.cirs.addon_hookup
+{
+	name: "Sample 2"
+	icon: "cl2"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl2
+	suitable_for[]: "set_dashbrd"
+	price: 102
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl3.cirs.addon_hookup
+{
+	name: "Sample 3"
+	icon: "cl3"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl3
+	suitable_for[]: "set_dashbrd"
+	price: 103
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl4.cirs.addon_hookup
+{
+	name: "Sample 4"
+	icon: "cl4"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl4
+	suitable_for[]: "set_dashbrd"
+	price: 104
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl5.cirs.addon_hookup
+{
+	name: "NOCON 69"
+	icon: "cl5"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl5
+	suitable_for[]: "set_dashbrd"
+	price: 69
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl6.cirs.addon_hookup
+{
+	name: "Sample 6"
+	icon: "cl6"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl6
+	suitable_for[]: "set_dashbrd"
+	price: 106
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl7.cirs.addon_hookup
+{
+	name: "Sample 7"
+	icon: "cl7"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl7
+	suitable_for[]: "set_dashbrd"
+	price: 107
+	unlock: 0
+}
+
+accessory_hookup_int_data : cl8.cirs.addon_hookup
+{
+	name: "Sample 8"
+	icon: "cl8"
+	part_type: aftermarket
+	model: "/cir/cirs.pmd"
+	look: cl8
+	suitable_for[]: "set_dashbrd"
+	price: 108
+	unlock: 0
+}

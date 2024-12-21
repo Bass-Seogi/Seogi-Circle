@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cl3.scania.r.toyac
+{
+	name: "Sample 3"
+	price: 103
+	unlock: 0
+	icon: "cl3"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+
+	look: cl3
+}
+}

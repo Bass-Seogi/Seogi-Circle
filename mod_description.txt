@@ -1,0 +1,14 @@
+﻿[blue]Seogi Circle
+It will function normally from 1.51[normal]
+
+
+Custom Picture 512 x512 dds file
+\cir
+cl1.dds ~ cl8.dds
+
+Custom ico 256 x64 dds file
+\material\ui\accessory
+cl1.dds ~ cl8.dds
+
+mod sanax_volvo_fh_2022
+mod mack.r

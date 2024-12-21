@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cl6.renault.t.toyac
+{
+	name: "Sample 6"
+	price: 106
+	unlock: 0
+	icon: "cl6"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+
+	look: cl6
+}
+}

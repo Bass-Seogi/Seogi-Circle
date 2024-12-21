@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cl5.daf.xf.toyac
+{
+	name: "NOCON 69"
+	price: 69
+	unlock: 0
+	icon: "cl5"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+
+	look: cl5
+}
+}

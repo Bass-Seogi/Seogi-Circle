@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : beads.man.tgx_euro6.toystand
+{
+	name: "NOCON Beads"
+	price: 69
+	unlock: 0
+	icon: "cl5"
+	part_type: aftermarket
+
+	interior_model: "/cir/nocon.pmd"
+}
+}

@@ -1,0 +1,19 @@
+﻿[blue]서기 서클
+1.51 부터 정상 작동합니다[normal]
+
+
+dds만 페인트넷 이나 포토샵에서 수정하시면 됩니다
+화질이 맘에 안드시면 1024 x1024 이거나 2048 x2048 으로
+1:1 화질로 올리셔도 가능합니다
+
+
+커스텀 그림 512 x512 dds 파일
+\cir
+cl1.dds ~ cl8.dds
+
+커스텀 아이콘 256 x64 dds 파일
+\material\ui\accessory
+cl1.dds ~ cl8.dds
+
+mod sanax_volvo_fh_2022
+mod mack.r

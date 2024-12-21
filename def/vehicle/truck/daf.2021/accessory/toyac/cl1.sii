@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cl1.daf.2021.toyac
+{
+	name: "pheel"
+	price: 101
+	unlock: 0
+	icon: "cl1"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+	exterior_model: "/cir/cir.pmd"
+
+	look: cl1
+}
+}

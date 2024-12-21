@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cl8.daf.2021.toyac
+{
+	name: "Sample 8"
+	price: 108
+	unlock: 0
+	icon: "cl8"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+	exterior_model: "/cir/cir.pmd"
+
+	look: cl8
+}
+}

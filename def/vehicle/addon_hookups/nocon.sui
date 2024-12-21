@@ -1,0 +1,31 @@
+accessory_hookup_int_data : beads.dash.addon_hookup
+{
+	name: "NOCON Beads"
+	icon: "cl5"
+	part_type: aftermarket
+	model: "/cir/nocon.pmd"
+	suitable_for[]: "set_dashbrd"
+	price: 69
+}
+
+accessory_hookup_int_data : cbs.dash.addon_hookup
+{
+	name: "NOCON ㅇㄷㅊㅂ S"
+	icon: "cb"
+	part_type: aftermarket
+	model: "/cir/cb.pmd"
+	look: cbs
+	suitable_for[]: "set_dashbrd"
+	price: 74
+}
+
+accessory_hookup_int_data : cbw.dash.addon_hookup
+{
+	name: "NOCON ㅇㄷㅊㅂ W"
+	icon: "cb"
+	part_type: aftermarket
+	model: "/cir/cb.pmd"
+	look: cbw
+	suitable_for[]: "set_dashbrd"
+	price: 85
+}

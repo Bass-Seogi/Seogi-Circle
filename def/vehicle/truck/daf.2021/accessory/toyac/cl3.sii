@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cl3.daf.2021.toyac
+{
+	name: "Sample 3"
+	price: 103
+	unlock: 0
+	icon: "cl3"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+	exterior_model: "/cir/cir.pmd"
+
+	look: cl3
+}
+}
