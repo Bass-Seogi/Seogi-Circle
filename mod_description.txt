@@ -1,5 +1,5 @@
 ﻿[blue]Seogi Circle
-It will function normally from 1.51[normal]
+It will function normally from 1.53[normal]
 
 
 Custom Picture 512 x512 dds file
