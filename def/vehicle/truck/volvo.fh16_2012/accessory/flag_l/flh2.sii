@@ -2,7 +2,7 @@ SiiNunit
 {
 accessory_addon_patch_data : flh2.volvo.fh16_2012.flag_l
 {
-	name: "세로2"
+	name: "seogi"
 	price: 9
 	icon: "flag/flh2"
 	part_type: aftermarket

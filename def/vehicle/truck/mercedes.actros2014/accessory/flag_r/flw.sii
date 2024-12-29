@@ -2,7 +2,7 @@ SiiNunit
 {
 accessory_addon_patch_data : flw.mercedes.actros2014.flag_r
 {
-	name: "가로2"
+	name: "가로"
 	price: 7
 	icon: "flag/flw"
 	part_type: aftermarket

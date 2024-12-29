@@ -2,7 +2,7 @@ SiiNunit
 {
 accessory_addon_patch_data : flw2.daf.2021.flag_r
 {
-	name: "가로"
+	name: "가로2"
 	price: 6
 	icon: "flag/flw2"
 	part_type: aftermarket

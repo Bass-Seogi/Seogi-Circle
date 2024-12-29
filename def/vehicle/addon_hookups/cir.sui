@@ -24,7 +24,7 @@ accessory_hookup_int_data : cl2.cir.addon_hookup
 
 accessory_hookup_int_data : cl3.cir.addon_hookup
 {
-	name: "Sample 3"
+	name: "seogi"
 	icon: "cl3"
 	part_type: aftermarket
 	model: "/cir/cir.pmd"

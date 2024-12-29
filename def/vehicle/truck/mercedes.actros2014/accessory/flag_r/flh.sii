@@ -2,7 +2,7 @@ SiiNunit
 {
 accessory_addon_patch_data : flh.mercedes.actros2014.flag_r
 {
-	name: "세로"
+	name: "pheel"
 	price: 8
 	icon: "flag/flh"
 	part_type: aftermarket
